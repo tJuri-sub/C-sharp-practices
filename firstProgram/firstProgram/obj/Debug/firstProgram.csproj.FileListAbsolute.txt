@@ -1,0 +1,7 @@
+C:\Users\tjuri\source\repos\firstProgram\firstProgram\bin\Debug\firstProgram.exe.config
+C:\Users\tjuri\source\repos\firstProgram\firstProgram\bin\Debug\firstProgram.exe
+C:\Users\tjuri\source\repos\firstProgram\firstProgram\bin\Debug\firstProgram.pdb
+C:\Users\tjuri\source\repos\firstProgram\firstProgram\obj\Debug\firstProgram.csproj.AssemblyReference.cache
+C:\Users\tjuri\source\repos\firstProgram\firstProgram\obj\Debug\firstProgram.csproj.CoreCompileInputs.cache
+C:\Users\tjuri\source\repos\firstProgram\firstProgram\obj\Debug\firstProgram.exe
+C:\Users\tjuri\source\repos\firstProgram\firstProgram\obj\Debug\firstProgram.pdb

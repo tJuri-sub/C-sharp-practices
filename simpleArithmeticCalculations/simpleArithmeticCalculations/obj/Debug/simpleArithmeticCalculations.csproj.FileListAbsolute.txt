@@ -1,0 +1,7 @@
+C:\Users\tjuri\source\repos\simpleArithmeticCalculations\simpleArithmeticCalculations\bin\Debug\simpleArithmeticCalculations.exe.config
+C:\Users\tjuri\source\repos\simpleArithmeticCalculations\simpleArithmeticCalculations\bin\Debug\simpleArithmeticCalculations.exe
+C:\Users\tjuri\source\repos\simpleArithmeticCalculations\simpleArithmeticCalculations\bin\Debug\simpleArithmeticCalculations.pdb
+C:\Users\tjuri\source\repos\simpleArithmeticCalculations\simpleArithmeticCalculations\obj\Debug\simpleArithmeticCalculations.csproj.AssemblyReference.cache
+C:\Users\tjuri\source\repos\simpleArithmeticCalculations\simpleArithmeticCalculations\obj\Debug\simpleArithmeticCalculations.csproj.CoreCompileInputs.cache
+C:\Users\tjuri\source\repos\simpleArithmeticCalculations\simpleArithmeticCalculations\obj\Debug\simpleArithmeticCalculations.exe
+C:\Users\tjuri\source\repos\simpleArithmeticCalculations\simpleArithmeticCalculations\obj\Debug\simpleArithmeticCalculations.pdb
